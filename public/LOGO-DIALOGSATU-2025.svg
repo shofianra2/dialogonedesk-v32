@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 56" width="340" height="56" fill="none">
+  <!-- Dialogue Icon Mark -->
+  <g transform="translate(4, 6)">
+    <!-- Base bubble in Deep Blue #042453 -->
+    <rect x="0" y="2" width="38" height="32" rx="9" fill="#042453" />
+    <path d="M12 34 L6 42 L22 34 Z" fill="#042453" />
+    <!-- Overlapping energetic pulse in Light Blue #00ADE6 -->
+    <rect x="14" y="8" width="28" height="24" rx="7" fill="#00ADE6" fill-opacity="0.95" />
+    <!-- Gold accent dot/speech spark #EDBC1B -->
+    <circle cx="28" cy="20" r="4.5" fill="#EDBC1B" />
+  </g>
+
+  <!-- Typography -->
+  <g transform="translate(56, 38)">
+    <!-- DIALOG -->
+    <text font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-weight="900" font-size="28" letter-spacing="-0.5px" fill="#042453">DIALOG</text>
+    <!-- SATU -->
+    <text x="114" y="0" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-weight="900" font-size="28" letter-spacing="-0.5px" fill="#00ADE6">SATU</text>
+    <!-- .COM -->
+    <text x="188" y="0" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-weight="800" font-size="24" letter-spacing="-0.5px" fill="#EDBC1B">.COM</text>
+  </g>
+</svg>

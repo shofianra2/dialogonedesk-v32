@@ -1,0 +1,6 @@
+{
+  "name": "DialogOneDesk V3.2",
+  "description": "Aplikasi redaksi modern DIALOGSATU.COM untuk parafrase berita, metadata, gambar cover, dan konten media sosial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
